@@ -14,6 +14,13 @@ Page({
     circular: true
   },
 
+  showText: function (){
+    console.log("这是一个测试")
+  },
+  showText: function () {
+    console.log("这是一个测试")
+  },
+
   /**
    * 生命周期函数--监听页面加载
    */
