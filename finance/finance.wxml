@@ -1,0 +1,43 @@
+<!--finance/finance.wxml-->
+<view class="content">
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+  <view class="pro">
+    <image src="/images/pro01.png"></image>
+    <view class="proName">精品进口车厘子</view>
+    <view class="proPrice">￥ 369.00</view>
+  </view>
+</view>

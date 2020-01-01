@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "home/home",
+    "finance/finance",
+    "life/life",
+    "mine/mine",
+    "index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F5B223",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "home/home",
+      "text": "首页",
+      "iconPath": "/images/home.png",
+      "selectedIconPath": "/images/home_s.png"
+    },
+    {
+      "pagePath": "finance/finance",
+      "text": "金融",
+      "iconPath": "/images/finance.png",
+      "selectedIconPath": "/images/finance_s.png"
+    },
+    {
+      "pagePath": "life/life",
+      "text": "生活",
+      "iconPath": "/images/life.png",
+      "selectedIconPath": "/images/life_s.png"
+    },
+    {
+      "pagePath": "mine/mine",
+      "text": "我的",
+      "iconPath": "/images/mine.png",
+      "selectedIconPath": "/images/mine_s.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

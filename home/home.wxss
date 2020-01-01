@@ -1,0 +1,7 @@
+/* home/home.wxss */
+@import "../baseStyle/base.wxss"
+.view3{
+  color:aquamarine;
+  background:blueviolet;
+}
+

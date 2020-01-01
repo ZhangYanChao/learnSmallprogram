@@ -1,0 +1,12 @@
+<!--life/life.wxml-->
+<view class="content">
+  <view class="swiper">
+    <swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" indicator-active-color="white" indicator-color="gray" circular="{{circular}}">
+      <block wx:for="{{background}}" wx:key="*this">
+          <swiper-item>
+            <image class="swiper-image" src="/images/{{item}}"></image>
+          </swiper-item>
+      </block>
+    </swiper>
+  </view>
+</view>

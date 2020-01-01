@@ -1,0 +1,23 @@
+/* finance/finance.wxss */
+
+.content{
+  width: 100%;
+  font-size: 13px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: cornsilk;
+}
+.pro{
+  width: 30%;
+  margin-left: 2.5%;
+  margin-top: 8px;
+}
+.pro image{
+  width: 100%;
+  height: 200rpx;
+}
+.proPrice{
+  color: orange;
+}

@@ -1,0 +1,9 @@
+<!--home/home.wxml-->
+<!-- 实验三种样式 -->
+<!-- 外部样式，页面样式，行内样式，全局样式 -->
+<view class="textBaseH">这是一个view1</view>
+<view class="textBaseH" style="background:green; color:#dd4">这是一个view2</view>
+<view class="view3 textBaseH">这是一个view3</view>
+<view class="view4 baseColor textBaseH">这是一个view4</view>
+
+
